@@ -7,3 +7,4 @@ C:\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.csprojRes
 C:\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.AssemblyInfo.cs
 C:\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.dll
 C:\Projects\CityInfo\CityInfo.API\obj\Debug\netcoreapp1.1\CityInfo.API.pdb
+C:\Projects\CityInfo\CityInfo.API\bin\Debug\netcoreapp1.1\nlog.config

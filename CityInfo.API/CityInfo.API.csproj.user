@@ -3,4 +3,9 @@
   <PropertyGroup>
     <WebStackScaffolding_DependencyDialogWidth>600</WebStackScaffolding_DependencyDialogWidth>
   </PropertyGroup>
+  
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools" Version="1.1.1" />
+  </ItemGroup>
+  
 </Project>
